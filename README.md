@@ -20,6 +20,12 @@ Tray icon: normal · low · critical · charging
 - Listening mode: Off, Transparency, Noise cancelling (High / Mid / Low / Adaptive)
 - Start with Windows toggle
 
+## Download
+
+Grab `NothingEarTray.exe` from [Releases](https://github.com/Janxyxy/NothingEarTray/releases/latest) and run it, nothing to install. The exe is unsigned, so SmartScreen may warn: *More info → Run anyway*.
+
+Tested on Nothing Ear. Other Nothing / CMF buds may work, reports welcome.
+
 ## Build & run
 
 ```
